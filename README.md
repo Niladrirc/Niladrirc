@@ -1,11 +1,14 @@
-# 💫 About Me:
-- 👋 Hi, I’m @NiladriRayChoudhury
-- 👀 I’m interested in Software Development
-- 🌱 Currently learning Java
-- 💞️ Open to collaboration on basic-level Java concepts
-- 📫 How to reach me:
-  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) niladri.raychoudhury@gmail.com
-  - ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) niladriraychoudhury@outlook.com
+# 💫 About Me
+
+👋 Hi, I’m @NiladriRayChoudhury  
+👀 Interested in Software Development  
+🌱 Currently learning Java  
+💞️ Looking to collaborate on basic-level Java concepts  
+
+### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niladri.raychoudhury@gmail.com)  
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:niladriraychoudhury@outlook.com)  
+
 
 <!---
 NiladriRayChoudhury/NiladriRayChoudhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
