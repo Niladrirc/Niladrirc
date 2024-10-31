@@ -3,7 +3,9 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Basic level Java concepts
-- 📫 How to reach me <niladri.raychoudhury@gmail.com> <niladriraychoudhury@outlook.com>
+- 📫 How to reach me
+- (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<niladri.raychoudhury@gmail.com>
+- (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <niladriraychoudhury@outlook.com>
 
 <!---
 NiladriRayChoudhury/NiladriRayChoudhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
