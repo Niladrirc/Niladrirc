@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 # 💫 About Me
+
+</div>
 
 👋 Hello! I'm @NiladriRayChoudhury, working as a Product Solution Engineer passionate about crafting robust backend systems.  
 💼 With a keen interest in algorithms and technology, I'm dedicated to expanding my expertise in Java and software development.  
@@ -15,24 +19,21 @@
 
 <div align="center">
 
-# 🌐 Connect with Me
-
+# 🌐 Connect with Me  
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:niladriraychoudhury@outlook.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@niladriraychoudhury)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-ray-choudhury/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiladriRayChoudhury)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8637288180&text=hi)  
 [![Resume](https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/11VkU-nheZACrGs7BCij8fq2QxzvgeoQ7/view?usp=sharing)
-  
-
-[![](https://visitcount.itsvg.in/api?id=Niladrirc&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
 </div>
 
 ---
+
 <div align="center">
-  
+
 # 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -71,7 +72,8 @@
 # 📊 Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Niladrirc&theme=dark&hide_border=false&cache_seconds=86400)  -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&layout=compact)  
+[![](https://visitcount.itsvg.in/api?id=Niladrirc&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
 </div>
