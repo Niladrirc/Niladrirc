@@ -69,8 +69,9 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Niladrirc&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Niladrirc&theme=dark&hide_border=false&cache_seconds=86400)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niladrirc&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=86400)
+
 
 </div>
