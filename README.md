@@ -18,11 +18,10 @@
 # 🌐 Connect with Me
 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:niladriraychoudhury@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-ray-choudhury/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@niladriraychoudhury)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiladriRayChoudhury)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8637288180&text=hi)
-[![Phone](https://img.shields.io/badge/-Phone-34B7F1?style=for-the-badge&logo=phone&logoColor=white)](tel:+918337288180)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-ray-choudhury/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiladriRayChoudhury)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8637288180&text=hi)  
 [![Resume](https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/11VkU-nheZACrGs7BCij8fq2QxzvgeoQ7/view?usp=sharing)
   
 
