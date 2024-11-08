@@ -25,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladri-ray-choudhury/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiladriRayChoudhury)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8637288180&text=hi)  
-[![Resume](https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/11VkU-nheZACrGs7BCij8fq2QxzvgeoQ7/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1JuePt96rrXKdOw3URc3b2KR_K3wZMvrn/view?usp=sharing)
 
 
 </div>
