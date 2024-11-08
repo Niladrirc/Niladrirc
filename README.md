@@ -21,7 +21,7 @@
 
 # 🌐 Connect with Me  
 
-[![Resume](https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1JuePt96rrXKdOw3URc3b2KR_K3wZMvrn/view?usp=sharing)  
+[![Resume](https://img.shields.io/badge/Resume-1abc9c?style=for-the-badge&logo=pdf&logoSize=24000&logoColor=white)](https://drive.google.com/file/d/1JuePt96rrXKdOw3URc3b2KR_K3wZMvrn/view?usp=sharing)  
 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:niladriraychoudhury@outlook.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiladriRayChoudhury)
